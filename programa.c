@@ -13,6 +13,7 @@ int main()
         printf("\nProceso Zombie creado con exito");
         printf("\nEstará activo durante 20 segundos\n");
         exit(0);
+        
     }
     else
         printf("\nLo sentimos, El proceso Hijo no pudo ser creado");
